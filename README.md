@@ -1,0 +1,1 @@
+# mysetup-p10k
